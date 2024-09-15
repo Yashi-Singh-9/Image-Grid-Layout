@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://gitlab.com/Yashi-Singh-9/image-grid-layout.git
+   git clone https://github.com/Yashi-Singh-9/Image-Grid-Layout.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -42,7 +42,7 @@ The grid layout can be customized or extended for various use cases:
 - Test the responsiveness by viewing the layout on devices of different sizes.
 
 ## Support
-For support, open an issue in the [GitLab repository](https://gitlab.com/Yashi-Singh-9/image-grid-layout/-/issues).
+For support, open an issue in the [GitLab repository](https://github.com/Yashi-Singh-9/Image-Grid-Layout/-/issues).
 
 ## Roadmap
 Future improvements may include:
